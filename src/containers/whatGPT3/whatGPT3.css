@@ -70,7 +70,7 @@
 .gpt3_whatgpt3_container .gpt3_features_container_feature {
     flex: 1;
     margin: 1rem;
-    min-width: 210px;
+    min-width: 150px;
     display: unset;
     flex-direction: column;
 }
