@@ -1,3 +1,8 @@
+# Modern UI/UX GPT3
+[Live Site](https://nandita2102.github.io/gpt3-jsm/)
+
+![Screenshot (25)](https://user-images.githubusercontent.com/57829501/205817219-a6fb28e5-d8eb-46cb-8aef-351831ea811b.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
